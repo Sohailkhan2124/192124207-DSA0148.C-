@@ -8,3 +8,4 @@ int main()
 	
 }
 
+SOLUTION>> yes we can use the header file"#include<bits/stdc++.h> ,the program will compile and run without any error
