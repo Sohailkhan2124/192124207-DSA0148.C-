@@ -15,3 +15,6 @@ int y=seventy ;
  return 0 ;
  	
 }
+
+SOLUTION>> The error in the following program is " FOR INT DECLARAION NUMBERS SHOULD BE THE VALUE OF THE VARIABLE ,THE INT VARIABLE CANNOT TAKE CHARACTERS"
+                                                  "int y=seventy gives an error as seventy is not declared in the scope"
